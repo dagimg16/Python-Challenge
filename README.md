@@ -58,12 +58,12 @@ To run the **PyBank** and **PyPoll** projects, you will need the following:
 3. Run the Python script for each project:
    - For **PyBank**:
      ```bash
-     python PyBank/PyBank_main.py
+     python PyBank_main.py
      ```
 
    - For **PyPoll**:
      ```bash
-     python PyPoll/PyPoll_main.py
+     python PyPoll_main.py
      ```
 ## Acknowledgments
 - Thanks to SMU and my instructors for guiding me through this learning journey!
