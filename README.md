@@ -38,7 +38,7 @@ The **PyPoll** project focuses on modernizing the vote-counting process for a sm
 - Calculate the percentage of votes each candidate won.
 - Determine the total number of votes each candidate received.
 - Identify the winner of the election based on the popular vote.
-- 
+  
 ## What You Need
 
 To run the **PyBank** and **PyPoll** projects, you will need the following:
@@ -50,15 +50,16 @@ To run the **PyBank** and **PyPoll** projects, you will need the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/dagimg16/Python-Challenge.git
+   ```
 2. In the terminal, navigate to the folder containing the respective Python script:
   - PyBank: PyBank_main.py
   - PyPoll: PyPoll_main.py
 3.Run the Python script for each project:
   ```bash
-  python PyBank_main.py for PyBank
-  python PyPoll_main.py for PyPoll
-
-## Acknowledgments 
+  python PyBank_main.py for **PyBank**
+  python PyPoll_main.py for **PyPoll**
+ ```
+## Acknowledgments
 - Thanks to SMU and my instructors for guiding me through this learning journey!
 - And a big thank you to everyone checking out this project.
 
